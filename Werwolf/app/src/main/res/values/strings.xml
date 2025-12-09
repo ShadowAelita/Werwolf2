@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Werwolf Moderator</string>
+    <string name="add">Hinzufügen</string>
+    <string name="start_night">Nacht starten</string>
+</resources>
